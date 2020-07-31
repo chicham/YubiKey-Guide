@@ -2076,3 +2076,4 @@ scd apdu 00 44 00 00
 * https://www.hanselman.com/blog/HowToSetupSignedGitCommitsWithAYubiKeyNEOAndGPGAndKeybaseOnWindows.aspx
 * https://www.void.gr/kargig/blog/2013/12/02/creating-a-new-gpg-key-with-subkeys/
 * https://mlohr.com/gpg-agent-forwarding/
+* https://ocramius.github.io/blog/yubikey-for-ssh-gpg-git-and-local-login/
